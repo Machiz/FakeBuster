@@ -1,0 +1,26 @@
+[
+  {
+    "title": "La NASA confirma presencia de agua líquida en Marte",
+    "truth": true,
+    "source": "bbc.com",
+    "explanation": "Confirmado por la NASA en 2015; hallazgos de sales hidratadas en la superficie marciana."
+  },
+  {
+    "title": "El limón cura el cáncer según estudios recientes",
+    "truth": false,
+    "source": "snopes.com",
+    "explanation": "No existe evidencia científica que respalde esta afirmación; es un mito viral."
+  },
+  {
+    "title": "Meta lanza nueva herramienta de IA para moderar contenido",
+    "truth": true,
+    "source": "reuters.com",
+    "explanation": "Noticia real sobre desarrollo tecnológico de Meta."
+  },
+  {
+    "title": "Tomar agua fría después de comer causa ataques al corazón",
+    "truth": false,
+    "source": "newtral.es",
+    "explanation": "Desmentido por verificadores; no hay evidencia médica que lo respalde."
+  }
+]
